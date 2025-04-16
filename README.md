@@ -61,6 +61,14 @@ Através do meu perfil no Instagram, compartilho meu dia a dia como estudante e 
 />
 <img 
     align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
