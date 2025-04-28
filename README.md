@@ -4,7 +4,6 @@
 
 Me chamo João Francisco da Silva, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio no SENAI, onde também finalizei o curso técnico em Desenvolvimento e Análise de Sistemas. Atualmente, estou cursando Engenharia de Software na Universidade Católica de Santa Catarina.<br/>
 Sou apaixonado por tecnologia e por resolver problemas por meio da programação. Acredito no poder da tecnologia como ferramenta de transformação, e é isso que me motiva a evoluir constantemente na área.<br/>
-Através do meu perfil no Instagram, compartilho meu dia a dia como estudante e desenvolvedor, mostrando meus aprendizados, projetos e desafios no universo Tech:"[Silva | Dev 👾💻](https://www.instagram.com/joaofsdev/)".
 
 <p align="left">
     <a href="https://github.com/joaofsdev?tab=repositories&sort=stargazers">
