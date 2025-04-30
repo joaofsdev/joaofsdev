@@ -1,4 +1,4 @@
-<h1 align="left">Joao Francisco da Silva</h1>
+<h1 align="left">🤖 Joao Francisco da Silva</h1>
 
 ###
 
@@ -70,13 +70,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=gmq2088nuni887tu7dk8igm7x&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaofsdev/joaofsdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaofsdev/joaofsdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaofsdev/joaofsdev/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
