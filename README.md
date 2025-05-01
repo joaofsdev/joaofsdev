@@ -38,6 +38,8 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="javascript logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32" alt="nodejs logo"  />
 </div>
 
 ###
