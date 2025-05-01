@@ -14,8 +14,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
   <img width="6" />
@@ -36,8 +34,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="javascript logo"  />
   <img width="6" />
@@ -50,8 +46,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
 </div>
@@ -62,8 +56,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
 </div>
@@ -73,8 +65,6 @@
 <h3 align="left">Controle de Versao, Host e Deploy:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
@@ -99,8 +89,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/joaofsdev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -115,11 +103,9 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://open.spotify.com/user/gmq2088nuni887tu7dk8igm7x">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gmq2088nuni887tu7dk8igm7x&count=3&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gmq2088nuni887tu7dk8igm7x&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
