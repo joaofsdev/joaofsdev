@@ -2,9 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="153" src="https://avatars.githubusercontent.com/u/167267041?s=400&u=36bc137e6d136da8d3b7d90a3c8918ff72eead0f&v=4"  />
+<h2 align="left">Sobre Mim</h2>
 
 ###
 
@@ -12,28 +10,78 @@
 
 ###
 
+<h3 align="left">Front-End:</h3>
+
+###
+
 <br clear="both">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="react logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="32" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h3 align="left">Back-End:</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
+</div>
+
+###
+
+<h3 align="left">Banco de Dados:</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">Design UI:</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">Controle de Versao, Host e Deploy:</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="32" alt="github logo"  />
+  <img width="6" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="32" alt="vercel logo"  />
 </div>
 
 ###
@@ -47,9 +95,13 @@
 
 ###
 
+<h3 align="left">Redes Sociais:</h3>
+
+###
+
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/joaofsdev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
