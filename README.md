@@ -23,9 +23,6 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="javascript logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" alt="react logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="32" alt="bootstrap logo"  />
 </div>
 
 ###
