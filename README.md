@@ -24,7 +24,7 @@ Sou um Engenheiro de Software Full Stack com foco em desenvolvimento web moderno
 #### Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs&perline=4)
 ![Express](https://skillicons.dev/icons?i=express&perline=4)
-![Progress 4GL](https://upload.wikimedia.org/wikipedia/commons/6/6b/Progress-logo.svg)
+![Progress 4GL](https://cdn.simpleicons.org/progress)
 
 #### Banco de Dados
 ![MySQL](https://skillicons.dev/icons?i=mysql&perline=4)
