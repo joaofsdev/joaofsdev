@@ -48,8 +48,6 @@ Sou um Engenheiro de Software Full Stack com foco em desenvolvimento web moderno
 ### 🎯 Projetos em Destaque
 
 - **CornerCraft** - Plataforma completa para tutoriais com sistema de autenticação
-- **Todo APP** - Aplicação moderna para gerenciamento de tarefas
-- **CitySave** - Comparador de custos de vida entre cidades
 
 ---
 
@@ -62,3 +60,4 @@ Sou um Engenheiro de Software Full Stack com foco em desenvolvimento web moderno
 ---
 
 *Transformando ideias em código, uma linha por vez.*
+
