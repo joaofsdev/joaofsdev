@@ -48,6 +48,7 @@ Sou um Engenheiro de Software Full Stack com foco em desenvolvimento web moderno
 ### 🎯 Projetos em Destaque
 
 - **CornerCraft** - Plataforma completa para tutoriais com sistema de autenticação
+- **Hamburgueria X-Tudo** - Sistema de gestão completo de uma hamburgueria
 
 ---
 
@@ -60,4 +61,5 @@ Sou um Engenheiro de Software Full Stack com foco em desenvolvimento web moderno
 ---
 
 *Transformando ideias em código, uma linha por vez.*
+
 
