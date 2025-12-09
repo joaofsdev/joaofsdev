@@ -2,7 +2,7 @@
   
 # 👨‍💻 João Francisco da Silva
 
-### Engenheiro de Software Full Stack
+### Engenheiro de Software Backend
 
 *Apaixonado por criar soluções inovadoras e experiências digitais excepcionais*
 
@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou **Engenheiro de Software Full Stack** com foco em desenvolvimento web moderno, transformando ideias em realidade através do código. Crio aplicações que resolvem problemas reais e melhoram a vida das pessoas.
+Sou **Engenheiro de Software Backend** com foco em desenvolvimento web moderno, transformando ideias em realidade através do código. Crio aplicações que resolvem problemas reais e melhoram a vida das pessoas.
 
 🎓 **Formação:** Engenharia de Software - Universidade Católica de Santa Catarina  
 🎯 **Técnico:** Desenvolvimento e Análise de Sistemas - SENAI
@@ -105,5 +105,6 @@ Estou sempre aberto para discutir novos projetos, ideias criativas ou oportunida
 ### ⚡ *"Transformando ideias em código, uma linha por vez."*
 
 <img src="https://komarev.com/ghpvc/?username=joaofsdev&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile Views" />
+
 
 </div> 
