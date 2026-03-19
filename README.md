@@ -4,12 +4,6 @@
 
 ### 👨‍💻 Engenheiro de Software Backend
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+código;Construindo+APIs+Robustas;Especialista+em+Backend">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+código;Construindo+APIs+Robustas;Especialista+em+Backend" alt="Typing SVG" />
-  </a>
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofsdev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+5547988162658)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joaofsdev.github.io/portfolio/)
