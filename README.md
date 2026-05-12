@@ -30,10 +30,10 @@ Sou **Engenheiro de Software Backend** com foco em construir APIs robustas e apl
 <div align="center">
 
 ### ⚙️ Backend & Banco de Dados
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql" height="48" alt="Backend e Database Stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,nodejs,express,postgres,mysql" height="48" alt="Backend e Database Stack" />
 
 ### 🎨 Frontend & Design
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma" height="48" alt="Frontend e Design Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" height="48" alt="Frontend e Design Stack" />
 
 ### 🔧 Ferramentas & Versionamento
 <img src="https://skillicons.dev/icons?i=git,github" height="48" alt="Tools Stack" />
