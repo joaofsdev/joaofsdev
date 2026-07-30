@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou o João Francisco 👋
+# Olá! Eu sou o João Francisco 👋🏼
 
 ### 👨‍💻 Engenheiro de Software Backend
 
