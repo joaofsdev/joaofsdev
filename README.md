@@ -1,83 +1,47 @@
 <div align="center">
 
-# Olá! Eu sou o João Francisco 👋🏼
+# Olá, eu sou o João Francisco 👋
 
-### 👨‍💻 Engenheiro de Software Backend
+### Engenheiro de Software Full Stack · Java/Spring Boot + React/TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofsdev/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+5547988162658)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joaofsdev.github.io/portfolio/)
+📍 Joinville, SC · Estagiário Full Stack na **SoftExpert** · Engenharia de Software na Católica SC
 
-*Apaixonado por criar soluções inovadoras e experiências digitais excepcionais.* <br>
-📍 Joinville, SC
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaofsdev-FF7A1A?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/joaofsdev/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-joaofsdev.github.io-FF7A1A?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://joaofsdev.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-contato-FF7A1A?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:joao.franciscos047@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre mim
 
-Sou **Engenheiro de Software Backend** com foco em construir APIs robustas e aplicações escaláveis. Transformo ideias em realidade através de um código limpo e eficiente, sempre buscando resolver problemas complexos com soluções elegantes. Tenho me aprofundado bastante no ecossistema corporativo, construindo sistemas estruturados e explorando as melhores práticas do mercado.
+Construo aplicações de ponta a ponta: APIs em **Java/Spring Boot**, interfaces em **React/TypeScript**, banco, deploy e observabilidade.
 
-- 🎓 **Formação:** Engenharia de Software - Universidade Católica de Santa Catarina
-- 🎯 **Técnico:** Desenvolvimento e Análise de Sistemas - SENAI
-- 💡 **O que me move:** Aprendizado contínuo, arquitetura de software e compartilhamento de conhecimento.
+- 💼 Na **SoftExpert** trabalho na indexação e busca de documentos da Suite (Spring Boot, Elasticsearch/OpenSearch, indexação em lote) e na integração de resumos de busca com IA.
+- 🎮 Fiz um **Batalha Naval multiplayer em tempo real** (Spring Boot + WebSocket + React) com Prometheus, Grafana e testes de carga com k6.
+- 🤖 Uso desenvolvimento assistido por IA no dia a dia, com spec, plano e testes antes do código.
+- 🎓 Engenharia de Software na Católica SC (formatura em 2027) · Técnico em Desenvolvimento de Sistemas pelo SENAI.
 
----
-
-## 🛠️ Stack Tecnológico
+## Stack
 
 <div align="center">
 
-### ⚙️ Backend & Banco de Dados
-<img src="https://skillicons.dev/icons?i=java,spring,php,nodejs,express,postgres,mysql" height="48" alt="Backend e Database Stack" />
+**Backend** <br>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,php,postgres,mysql,redis&theme=dark" height="44" alt="Backend" />
 
-### 🎨 Frontend & Design
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" height="48" alt="Frontend e Design Stack" />
+**Frontend** <br>
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,html,css&theme=dark" height="44" alt="Frontend" />
 
-### 🔧 Ferramentas & Versionamento
-<img src="https://skillicons.dev/icons?i=git,github" height="48" alt="Tools Stack" />
+**Infra e ferramentas** <br>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,grafana,prometheus,elasticsearch,vercel,git&theme=dark" height="44" alt="Infra" />
 
 </div>
 
----
+## Projetos em destaque
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaofsdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaofsdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&bg_color=0d1117" height="170" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
-## 🎯 Projetos em Destaque
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌟 <a href="https://github.com/joaofsdev/CornerCraft">CornerCraft</a></h3>
-      <p align="center"><b>Plataforma completa para tutoriais</b><br>Sistema de autenticação • Gerenciamento de conteúdo • Interface moderna</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🍔 <a href="https://github.com/joaofsdev/Sistema-Gestao-XTudo">Hamburgueria X-Tudo</a></h3>
-      <p align="center"><b>Sistema de gestão completo</b><br>Controle de pedidos • Painel administrativo • Sistema de delivery</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💬 Vamos Conversar?
-
-Estou sempre aberto para discutir novos projetos, ideias criativas ou oportunidades de colaboração! Sinta-se à vontade para me contatar:
-
-> 📧 **Email:** [joao.franciscos047@gmail.com](mailto:joao.franciscos047@gmail.com)  
-> 💼 **LinkedIn:** [linkedin.com/in/joaofsdev](https://www.linkedin.com/in/joaofsdev/)  
-> 🌐 **Portfolio:** [joaofsdev.github.io/portfolio](https://joaofsdev.github.io/portfolio/)  
-> 📱 **WhatsApp:** [+55 47 98816-2658](http://wa.me/+5547988162658)
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=joaofsdev&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile Views" />
-</div>
+| Projeto | O que é | Stack |
+|---|---|---|
+| ⚓ [**Batalha Naval**](https://github.com/joaofsdev/batalhanaval) | Multiplayer em tempo real, servidor autoritativo, modos Clássico e Tempestade | Spring Boot · WebSocket/STOMP · React · PostgreSQL · Docker · Grafana · k6 |
+| 🛍️ [**usevs Store**](https://github.com/joaofsdev/Usevsstore) | Catálogo de streetwear para uma loja real, com painel admin e venda pelo WhatsApp | React · TypeScript · Hono · Drizzle · Turso · Playwright |
+| 🧙 [**MagiChill**](https://github.com/joaofsdev/magichill) | RPG de turnos jogável no navegador · [jogar](https://magichill.vercel.app/) | React · Vite · Tailwind · Vitest |
