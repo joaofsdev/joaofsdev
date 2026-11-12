@@ -12,8 +12,17 @@ Estou planejando uma nova implementação do jogo, do zero, com Java, Spring Boo
 
 ## Stack
 
-- **Backend** · Java, Spring Boot, APIs REST e PostgreSQL
-- **Frontend** · React, TypeScript e Vite
-- **Testes e entrega** · JUnit, Playwright, Docker e GitHub Actions
+<div align="center">
+
+**Backend** <br>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,php,postgres,mysql,redis&theme=dark" height="44" alt="Backend" />
+
+**Frontend** <br>
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,html,css&theme=dark" height="44" alt="Frontend" />
+
+**Infra e ferramentas** <br>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,grafana,prometheus,elasticsearch,vercel,git&theme=dark" height="44" alt="Infra" />
+
+</div>
 
 [LinkedIn](https://www.linkedin.com/in/joaofsdev/) · [Portfólio](https://joaofsdev.github.io/portfolio/)
